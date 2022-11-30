@@ -80,6 +80,10 @@ plt.title("Customer Segments")
 ![output](./wcss.png)
 ### Plot - Elbow Method:
 ![output](./plot.png)
+### K-Means:
+![o9](https://user-images.githubusercontent.com/94279791/204844109-cf1032e7-5877-4296-b542-e3658bd85d0e.jpg)
+### Y_pred:
+![o10](https://user-images.githubusercontent.com/94279791/204843712-5b859f97-4f13-45b8-8dbf-129b8174207e.png)
 ### Cluster:
 ![output](./cluster.png)
 
